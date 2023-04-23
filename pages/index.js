@@ -27,7 +27,7 @@ export default function Home() {
           <img src="https://assets.codepen.io/344846/RoundCube-White-Matte-2.png" />
           <h2>Skill Tester</h2>
           <p>Find out how efficient is your skill stack.</p>
-          <a href="https://github.com/sehajs5/Skill-Set.git" target="_blank">Skill Tester<svg width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <a href="https://anmolmalik01.github.io/skill-tester/" target="_blank">Skill Tester<svg width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
           </svg></a>
         </div>
