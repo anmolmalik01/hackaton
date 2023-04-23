@@ -2,6 +2,7 @@ import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
+import { signIn } from 'next-auth/react'
 // import '../components/first.js'
 
 const inter = Inter({ subsets: ['latin'] })
@@ -17,6 +18,7 @@ export default function Home() {
           </p>
           <a target="_blank">
             <button onClick={() => signIn()}>
+              
               Sign Up
             </button>
             <svg width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
